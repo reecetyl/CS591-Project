@@ -6,6 +6,11 @@ Project Repository for BU CS591 Summer 2
 ### data
 Contains the datasets in CSV format for use in project analysis
 
+* boston-licenses
+* boston-property
+* nyc-licenses
+* nyc-property
+
 ### code
 Contains the source code for machine learning analysis, separated into files for 
 
